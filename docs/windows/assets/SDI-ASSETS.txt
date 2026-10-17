@@ -1,0 +1,4 @@
+SDI Grass theme artwork: https://github.com/gtumanyan/SDI
+Source: Tools/themes/grass/{main,button,button_2}.webp and res/logo.webp
+Original project license: GNU GPL v3. See https://github.com/gtumanyan/SDI/blob/master/LICENSE
+Used in a browser-based educational UI reproduction.
